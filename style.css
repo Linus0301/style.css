@@ -1,0 +1,37 @@
+.benner {
+    background: url(img/bennu.jpg)no-repeat center center;
+    background-size: cover;
+    padding-top: 4%;
+    padding-bottom: 10%%;
+    color:  #fff ;
+
+}
+
+.lingkaran {
+    display:inline-block;
+    border-radius: 100%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    
+}
+
+.crop-img {
+    object-fit: cover;
+}
+body{
+    min-height: 3000px;
+}
+.penjelasan img {
+    width: 250px;
+    border: 10px solid #cccc;
+}
+a.sosial{
+    display: inline-block;
+    width: 40px;
+    height: 40;
+    color: #fff;
+    border-radius: 50px;
+    background-color: #333;
+    line-height: 40px;
+}
